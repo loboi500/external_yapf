@@ -1,0 +1,17 @@
+MANIFEST.in filter=lfs diff=lfs merge=lfs -text
+plugins filter=lfs diff=lfs merge=lfs -text
+README.rst filter=lfs diff=lfs merge=lfs -text
+yapf filter=lfs diff=lfs merge=lfs -text
+yapftests filter=lfs diff=lfs merge=lfs -text
+CHANGELOG filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTING.rst filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTORS filter=lfs diff=lfs merge=lfs -text
+HACKING.rst filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+setup.py filter=lfs diff=lfs merge=lfs -text
+tox.ini filter=lfs diff=lfs merge=lfs -text
+AUTHORS filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+pylintrc filter=lfs diff=lfs merge=lfs -text
+setup.cfg filter=lfs diff=lfs merge=lfs -text

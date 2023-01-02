@@ -1,4 +1,3 @@
-include HACKING.rst LICENSE AUTHORS CHANGELOG CONTRIBUTING.rst CONTRIBUTORS
-include .coveragerc .editorconfig .flake8 plugins/README.rst
-include plugins/vim/autoload/yapf.vim plugins/vim/plugin/yapf.vim pylintrc
-include .style.yapf tox.ini .travis.yml .vimrc
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b56c5dc553f9df600406a82d23a156a8467437580c959c972bfa1ce450a045
+size 259
